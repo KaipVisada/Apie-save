@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Lato:wght@100;400;900&family=Neonderthaw&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+body {
+    background: #81B214;
+    color: FB3640;
+    text-align: center;
+    padding: 15px;
+    border: 27px solid rgb(99, 29, 116);
+    margin: 0;
+}
+h1 {
+    font-size: 6em;
+    text-align: center;
+    font-family:  Dancing Script;
+}
+.mypic {
+    display: inline-block;
+    border-radius: 35px;
+    height: 250px;
+    width: 250px;
+    margin-top:0px;
+}
+
+.age {
+font-size: 4em;
+margin-left: 0px;
+}
+.age2 {
+font-size: 4em;
+margin-left: 80px;
+margin: 10px;
+}
+
+.education {
+margin: 10px;
+font-size: 4em;
+text-decoration: underline;
+margin-left: 650px;
+ border: 2px dotted rgb(97, 3, 121);
+ border-radius: 25px;
+ width: 500px;
+ height: 100px;
+}
+.almalitera {
+margin-left: 650px;
+margin-top: -10px;
+font-size: 2em;
+border: 2px solid rgb(255, 255, 255);
+ border-radius: 25px;
+  width: 500px;
+ height: 270px;
+}
+
+.Meritalstatus {
+    color: rgb(41, 31, 34);
+    border-radius: 25px;
+    font-size: 4em;
+    
+
+}
+.Interestingstory {
+font-family:Pacifico;
+color: #7980F5;
+font-size: 4em;
+text-decoration: underline;
+}
+.Hobby {
+font-family: Architects Daughter;
+color: #750550;
+font-size: 4em;
+text-decoration: underline;
+
+}
+
+.pic {
+ width: 300px;
+ height: 450px;
+}
+.pic1 {
+     width: 300px;
+    height: 450px;
+}
+.pic2 {
+    width: 500px;
+    height: 450px;  
+}
